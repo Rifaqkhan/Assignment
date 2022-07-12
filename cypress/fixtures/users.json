@@ -1,0 +1,12 @@
+[
+    {
+        "valid": true,
+        "username": "khanrifaq@gmail.com",
+        "password": "Ultimatum12"
+    },
+    {
+        "valid": false,
+        "username": "invalid_user",
+        "password": "invalid_password"
+    }
+]
